@@ -17,6 +17,8 @@
     }
   }
   
+
+  /* Columns and Rows */
   .holy-grail-left,
   .holy-grail-middle,
   .holy-grail-right,
@@ -30,6 +32,7 @@
       background-color: darkslategrey;
       text-align: center;
       border: 1px solid;
+      color: white;
       padding: 1rem;
   }
   
