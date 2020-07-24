@@ -33,6 +33,7 @@
       text-align: center;
       border: 1px solid;
       color: white;
+      font-family: 'Krona One', sans-serif;
       padding: 1rem;
   }
   
@@ -74,11 +75,6 @@
     }
   }
   
-  .holy-grail-footer {
-    -ms-grid-column: 1;
-        grid-column-start: 1;
-    grid-column-end: 4;
-  }
   
 /*SEARCHBAR CSS */
 .animated-search-form[type=search] {
@@ -172,4 +168,6 @@
     z-index: 10;
   }
   
-  
+  .image-hover-wrapper {
+      text-align: center;
+  }
